@@ -97,3 +97,36 @@ article img{
 	border-width: 0;
 	outline-width: 0;
 }
+
+#imagegallery li{
+    display: inline;
+}
+
+#placeholder{
+	border:0;
+	outline:0;
+}
+
+td{
+	padding: .5em 3em;
+}
+
+dl{
+	overflow: hidden;
+}
+
+dt{
+	float: left;
+}
+
+dd{
+	float: left;
+}
+
+label{
+	display: block;
+}
+
+fieldset{
+	border:0;
+}
